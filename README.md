@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexk2405" alt="alexk2405" /></a> </p>
 
-- 🧠 Project I gained the most knowledge on: [OS Shell]
+- 🧠 Project I gained the most knowledge on: [Multi site enterprise network]
 
 - 🙂 Project I had the best time making: [Arduino Whack-A-Mole Game]
 
